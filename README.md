@@ -1,5 +1,5 @@
-<img width="1304" height="730" alt="Personal-Financial-Dashboard" src="https://github.com/user-attachments/assets/5d991668-acda-4f86-9be2-1e232f6c3532" /> #Customer Spending Behavior Analysis for Personalization of Banking Product Offerings
-
+<img width="1304" height="730" alt="Personal-Financial-Dashboard" src="https://github.com/user-attachments/assets/5d991668-acda-4f86-9be2-1e232f6c3532" /> 
+# Customer Spending Behavior Analysis for Personalization of Banking Product Offerings
 End-to-end Power BI project analyzing customer transaction data to assess financial health, identify spending behavior, and generate personalized banking product recommendations.
 
 ## Business Problem
